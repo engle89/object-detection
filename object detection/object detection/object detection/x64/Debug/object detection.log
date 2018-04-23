@@ -1,0 +1,10 @@
+﻿  main.cpp
+d:\engle\image processing\object detection\object detection\object detection\main.cpp(94): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+d:\engle\image processing\object detection\object detection\object detection\main.cpp(111): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+d:\engle\image processing\object detection\object detection\object detection\main.cpp(112): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  object detection.vcxproj -> D:\engle\image processing\object detection\object detection\x64\Debug\object detection.exe
+  object detection.vcxproj -> D:\engle\image processing\object detection\object detection\x64\Debug\object detection.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart*.dll" "D:\engle\image processing\object detection\object detection\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart32_90.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v9.0\bin\cudart64_90.dll
+          2 file(s) copied.
