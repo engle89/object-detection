@@ -14,11 +14,11 @@ Find a centroid of the region of interest:
 
 The result should be look like this:
 
-![alternativetext](object detection/demo2.JPG)
+![alternativetext](demo2.JPG)
 
 Step 3:
 Overlay the ROI with another image.
 
 The final result:
 
-![alternativetext](object detection/demo.JPG)
+![alternativetext](demo.JPG)
